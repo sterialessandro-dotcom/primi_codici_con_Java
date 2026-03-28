@@ -1,5 +1,5 @@
 public class Main {
-public static void main (Strings[]args){
-System.out.println("Ciao GitHub);
+public static void main (String[]args){
+System.out.println("Ciao GitHub");
 }
 }
